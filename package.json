@@ -56,9 +56,5 @@
       "npx prettier --write",
       "eslint --fix"
     ]
-  },
-  "peerDependencies": {
-    "react": "^16.0 || ^17.0",
-    "react-native": "^0.52.0 || ^0.66.4 || ^0.68.1"
   }
 }
